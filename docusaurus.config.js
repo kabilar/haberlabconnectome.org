@@ -6,8 +6,8 @@ const config = {
   tagline: 'Internal capsule connectome atlas',
   favicon: 'img/favicon.svg',
 
-  url: 'https://haberlabconnectome.org',
-  baseUrl: '/',
+  url: 'https://kabilar.github.io',
+  baseUrl: '/haberlabconnectome.org/',
   organizationName: 'haberlab',
   projectName: 'haberlabconnectome.org',
   trailingSlash: false,
